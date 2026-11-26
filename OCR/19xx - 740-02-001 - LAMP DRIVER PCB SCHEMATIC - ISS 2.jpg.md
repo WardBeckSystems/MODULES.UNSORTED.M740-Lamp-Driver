@@ -33,7 +33,7 @@ Wide schematic strip of repeated transistor stages, title block at bottom right.
 - **Words (OCR):** 32 in 28 lines: R19 · 7494 · 7404 · 34 2102 · 742i02 · 7464 · 44914 · 7404 · 4N9IA · '7404 · N3A · 7404
 - **Wiring (first pass):** 52 connected wire groups from 532 runs; labelled ends: 36 mm → 560 6; 30 mm → cpnOk; 22 mm → 22/25; 20 mm → 7464; 19 mm → 7404
 
-Every curve, box, word and wire group: [19xx - 740-02-001 - LAMP DRIVER PCB SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20740-02-001%20-%20LAMP%20DRIVER%20PCB%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 740-02-001 - LAMP DRIVER PCB SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 740-02-001 - LAMP DRIVER PCB SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20740-02-001%20-%20LAMP%20DRIVER%20PCB%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 740-02-001 - LAMP DRIVER PCB SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 
